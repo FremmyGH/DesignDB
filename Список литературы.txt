@@ -1,0 +1,20 @@
+1. Гришенков Е. А. Построение концептуальной модели баз данных [Текст]/ Е.А. Гришенков, - Саарбрюккен, LAP, 2013. – 128c.
+2. Бураков П. В. ВВЕДЕНИЕ В СИСТЕМЫ БАЗ ДАННЫХ [Текст]: Учебное пособие/ П.В. Бураков, В.Ю. Петров – СПб, СПбГУ ИТМО, 2010. – 128с.
+3. Томас Коннолли Базы данных: проектирование, реализация и сопровождение. 2-е издание [Текст]/ Томас Коннолли, Каролин Бегг, Анна Страчан – Москва: Издательский дом «Вильямс», 2000. – 1120с.
+4. Карпова Т.С. Базы данных. Модели, разработка, реализация [Текст]: Учебное пособие/ Т.С. Карпова – Москва: «ИНТУИТ», 2016. – 241с.
+5. Peter Pin-Shan Chen The Entity-Relationship Model-Toward a Unified View of Data. ACM Transactions on Database Systems, Volume 1, Number 1 [Текст]/ Peter Pin-Shan Chen – Massachusets Institute of Technology, 1976. – p.9-36
+6. Медведкова И. Е. Базы данных [Текст]: Учебное пособие/ И. Е. Медведкова, Ю. В. Бугаев, С. В. Чикунов – Воронеж, ВГУИТ, 2014. – 105с.
+7. Лазицкас Е. А. Базы данных и системы управления базами данных [Текст]: учебное пособие/ Е. А. Лазицкас, И. Н. Загумённикова, П. Г. Гилевский. – Минск: РИПО, 2016. 267с.
+8. Гущин А. Н. Базы данных [Текст]: учебник/ А. Н. Гущин – Москва: Директ-Медиа, 2014. 266с.
+9. Илюшечкин В.М. ОСНОВЫ ИСПОЛЬЗОВАНИЯ И ПРОЕКТИРОВАНИЯ БАЗ ДАННЫХ [Текст]: учебник/ В.М. Илюшечкин – Москва, МИЭТ, 2014.- - 213с.
+10. Garcia-Molina Database Systems: The Complete Book [Текст]/Hector Garcia-Molina, Jeffrey D. Ullman, Jennifer Widom – Pearson Prentice Hall, 2009. – 1203c.
+11. Terry Halpin Conceptual Schema and Relational Database Design [Текст]/ Terry Halpin – Prentice Hall, 1995. – 547c.
+12. Бернхард Тальхайм Entity-Relationship Modeling: Foundations of Database Technology [Текст]/ Бернхард Тальхайм – Springer Science, 2000. – 627c.
+13. Christian Mancas Conceptual Data Modeling and Database Design: A Fully Algorithmic Approach, Volume 1: The Shortest Advisable Path [Текст] /Christian Mancas – Apple Academic Press, 2015. – 530c.
+14. Carol Batini Conceptual Database Design: An Entity-Relationship Approach [Текст] /Carol Batini – Addison-Wesley Professional, 1991, 470c.
+15. Andy Oppel Data Modeling, A Beginner's Guide [Текст]/ Andy Oppel – McGraw Hill Professional, 2009, 368c.
+16. Toby J. Teorey Database Modeling and Design [Текст]/ Toby J. Teorey, Sam S. Lightstone, Tom Nadeau, and H. V. Jagadish – Elseiver, 2006. – 275c.
+17. David C. Hay UML and Data Modeling: A Reconciliation [Текст]/ David C. Hay – Technics publications, 2011, 233c.
+18. Graeme Simsion Data Modeling Theory and Practice [Текст]/ Graeme Simsion - Technics publicationsб 2007. – 161с.
+19. Narayan S. Umanath Data Modeling and Database Design [Текст]/ Narayan S. Umanath – Thompson Course Technology, 2007. – 698c.
+20. Стружкин Н.П. Базы данных. Проектирование [Текст]: учебник/ Н. П. Стружкин, В.В. Годин – Москва: Издательство Юрайт, 2017. – 277с.
