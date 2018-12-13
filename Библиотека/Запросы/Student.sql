@@ -1,0 +1,1 @@
+SELECT [ID_Student],[FIO] AS "ФИО",[Phone] AS "Телефон",[NumSB] AS "Номер студенческого",[DateVidSB] AS "Дата выдачи студенческого",[NumRB] AS "Номер читательского",[DateVidRB] AS "Дата выдачи читательского",[Group].Name AS "Группа" FROM [dbo].[Student] INNER JOIN [dbo].[Group] ON ID_Group=Group_ID Order by FIO
